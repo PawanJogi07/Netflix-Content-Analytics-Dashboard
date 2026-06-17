@@ -13,7 +13,7 @@ This project transforms raw Netflix data into meaningful visual insights to help
 
 ## 🖼️ Dashboard Preview
 
-![Netflix Dashboard](netflix.png)
+![Netflix Dashboard](netflixd.png)
 
 ---
 
